@@ -12,6 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+
+# Add table of contents
+
 # This is the source of truth for all check descriptions and remediation steps.
 # Run `cd checks/main && go run /main` to generate `checks.json` and `checks.md`.
 checks:
